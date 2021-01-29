@@ -4,9 +4,9 @@ Welcome to my personal Jupyter Notebooks repository!  This is where I keep noteb
 
 ---
 
-* [General Machine Learning (ML)](ml)
-* [Natural Language Processing (NLP)](nlp)
-* [Electroencephalography (EEG) & Brain-Computer Interfaces (BCIs)](eeg)
-* [Computer Vision & Image Processing](vision)
-* [Topics in Python Programming & Data Science](python)
-* [Topics in R Programming & Data Science](R)
+* [General Machine Learning (ML)](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/ml/)
+* [Natural Language Processing (NLP)](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/nlp)
+* [Electroencephalography (EEG) & Brain-Computer Interfaces (BCIs)](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/eeg)
+* [Computer Vision & Image Processing](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/vision)
+* [Topics in Python Programming & Data Science](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/python)
+* [Topics in R Programming & Data Science](https://nbviewer.jupyter.org/github/idfah/notebooks/blob/main/R)
